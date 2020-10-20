@@ -1,0 +1,19 @@
+{
+  "name": "catering",
+  "version": "1.0.0",
+  "description": "Sample Catering Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judiphillips/catering.git"
+  },
+  "author": "Judi Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judiphillips/catering/issues"
+  },
+  "homepage": "https://github.com/judiphillips/catering#readme"
+}
